@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there I'm Zehra👋
+[![trophy](https://github-profile-trophy.vercel.app/?username=zennur)](https://github.com/zennur/github-profile-trophy)
 <!--
 **zennur/zennur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
