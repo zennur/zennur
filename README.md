@@ -1,4 +1,11 @@
 ### Hi there I'm Zehra👋
+
+- 🔭 I’m currently working on [AlpacAI](https://github.com/afri-bit/AlpacAI)
+- 🌱 I’m currently learning local LLMs and GenAI
+- 👯 I’m looking to collaborate on SDV and GenAI topics
+- 💬 Ask me about AWS CDK, SDVs
+- 📫 How to reach me: zehranurro@gmail.com
+  
 [![trophy](https://github-profile-trophy.vercel.app/?username=zennur)](https://github.com/zennur/github-profile-trophy)
 <!--
 **zennur/zennur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
