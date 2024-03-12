@@ -5,8 +5,18 @@
 - 👯 I’m looking to collaborate on SDV and GenAI topics
 - 💬 Ask me about AWS CDK, SDVs
 - 📫 How to reach me: zehranurro@gmail.com
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=zennur&theme=onedark)](https://github.com/zennur/github-profile-trophy)
+
+![](https://github-profile-trophy.vercel.app/?username=zennur&theme=onedark)
+
+
+<!--
+<a href="https://github-readme-stats.vercel.app/api?username=afri-bit&show_icons=true&theme=dracula&hide_rank=false">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=afri-bit&show_icons=true&theme=dracula&hide_rank=false" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=afri-bit&theme=dracula&layout=compact">
+  <img height=180 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afri-bit&theme=dracula&layout=compact&hide=html,scss,stylus,blade,css,autohotkey" />
+</a>
+-->
 <!--
 **zennur/zennur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
