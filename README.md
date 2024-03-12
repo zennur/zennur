@@ -6,7 +6,7 @@
 - 💬 Ask me about AWS CDK, SDVs
 - 📫 How to reach me: zehranurro@gmail.com
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=zennur)](https://github.com/zennur/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=zennur&theme=onedark)](https://github.com/zennur/github-profile-trophy)
 <!--
 **zennur/zennur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
