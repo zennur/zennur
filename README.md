@@ -1,9 +1,9 @@
 ### Hi there I'm Zehra👋
 
-- 🔭 I’m currently working on [AlpacAI](https://github.com/afri-bit/AlpacAI)
+- 🔭 I’m currently working on [MCP](https://github.com/modelcontextprotocol)
 - 🌱 I’m currently learning local LLMs and GenAI
 - 👯 I’m looking to collaborate on SDV and GenAI topics
-- 💬 Ask me about AWS CDK, SDVs
+- 💬 Ask me about GenAI, Agents and MCPs
 - 📫 How to reach me: zehranurro@gmail.com
 
 ![](https://github-profile-trophy.vercel.app/?username=zennur&theme=onedark)
