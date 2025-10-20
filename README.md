@@ -1,6 +1,6 @@
 ### Hi there I'm Zehra👋
 
-- 🔭 I’m currently working on [MCP](https://github.com/modelcontextprotocol)
+- 🔭 I’m currently working on [MCP](https://github.com/modelcontextprotocol), [API Marketplace](https://github.com/zennur/api-spec-rag)
 - 🌱 I’m currently learning local LLMs and GenAI
 - 👯 I’m looking to collaborate on SDV and GenAI topics
 - 💬 Ask me about GenAI, Agents and MCPs
